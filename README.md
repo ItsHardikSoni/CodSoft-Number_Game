@@ -1,1 +1,1 @@
-# CodSoft_Number_Game
+# CodSoft-Number_Game
